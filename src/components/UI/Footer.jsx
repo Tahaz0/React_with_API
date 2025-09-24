@@ -35,7 +35,7 @@ const Footer = () => {
             <div className="copyright-text">
               <p>
                 Copyright &copy; 2024, All Right Reserved
-                <NavLink to="https://thapatechnical.shop/" target="_blank">
+                <NavLink to="https://github.com/Tahaz0" target="_blank">
                   Redwan Ahmed
                 </NavLink>
               </p>
@@ -57,7 +57,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <NavLink
-                    to="https://thapatechnical.shop/source-code"
+                    to="https://github.com/Tahaz0/React_with_API/tree/main/src"
                     target="_blank"
                   >
                     Source Code
