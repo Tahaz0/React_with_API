@@ -1,0 +1,10 @@
+textarea {
+  resize: none;
+}
+.active {
+  color: #2e86c1;
+}
+.hover-effect:hover {
+  transform: scale(1.1);
+  transition: all 0.5s ease-in-out;
+}
